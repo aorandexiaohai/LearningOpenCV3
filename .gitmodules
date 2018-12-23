@@ -1,0 +1,3 @@
+[submodule "LearningOpenCV3Data"]
+	path = LearningOpenCV3Data
+	url = https://github.com/aorandexiaohai/LearningOpenCV3Data.git
