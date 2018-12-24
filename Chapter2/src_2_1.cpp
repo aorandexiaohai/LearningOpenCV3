@@ -1,5 +1,5 @@
 //A simple OpenCV program that loads an image from disk and displays it on the screen
-#include <opencv4/opencv2/opencv.hpp>
+#include <opencv2/opencv.hpp>
 #include <iostream>
 int main(int argc, char** argv)
 {
